@@ -1,0 +1,6 @@
+127.0.0.1
+8.8.8.8
+1.1.1.1
+example.com
+BS-computer1
+BS-computer2
